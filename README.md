@@ -20,7 +20,7 @@
 
 ## Announcements
 
-- AV-SpeakerBench has been integrated into [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval/tree/main/lmms_eval/tasks/av_speakerbench)
+- 2025-12-30: AV-SpeakerBench has been integrated into [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval/tree/main/lmms_eval/tasks/av_speakerbench)
 
 TL;DR: AV-SpeakerBench evaluates multimodal large langague models (MLLMs) on speakers conversation understanding audiovisually.
 
