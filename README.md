@@ -31,6 +31,7 @@ TL;DR: AV-SpeakerBench evaluates multimodal large langague models (MLLMs) on spe
 - [Data](#data)
 - [Quick Eval](#quick-eval)
 - [Add Your Model](#add-your-model)
+- [Add your model to the leaderboard](#add-your-model-to-the-leaderboard)
 - [Outputs](#outputs)
 - [Citation](#citation)
 
@@ -145,6 +146,10 @@ python main.py \
         with open(f"record/your_model_record_{args.task_id}.json", "w") as f:
             json.dump(records, f, indent=2)
     ```
+
+## Add your model to the leaderboard
+
+Please send us your inference code with the weight so that we can verify your result!
 
 ## Outputs
 - Accuracy: `result/<model>.json`
