@@ -20,6 +20,7 @@
 
 ## Announcements
 
+- 2026-03-15: AV-SpeakerBench has been integrated into [VLMEvalKit](https://github.com/open-compass/VLMEvalKit/pull/1393)! You can run both reasoning models and non-reasoning models on VLMEvalKit!
 - 2026-01-26: For thinking models, please make sure that you do the parsing to output a single character while using [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval/tree/main/lmms_eval/tasks/av_speakerbench). If you use our codebase, it is fine since we takes the last "A,B,C,D" character from your response.
 - 2025-12-30: AV-SpeakerBench has been integrated into [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval/tree/main/lmms_eval/tasks/av_speakerbench)
 
